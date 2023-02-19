@@ -1,0 +1,212 @@
+#password-requirements {
+	background-color: rgba(247, 185, 230, 0.786);
+	color: rgb(74, 72, 72);
+
+  }
+  
+  #password-requirements li {
+	list-style-type: disc;
+	margin-left: 20px;
+  }
+
+  #password-match {
+	background-color: rgba(242, 154, 217, 0.786);
+	color: rgb(74, 72, 72);
+  }
+  .swal2-select {
+	font-size: 16px;
+	padding: 15px;
+	border-radius: 5px;
+	border: 2px solid #ddd;
+	background-color: #f9f9f9;
+	width: 58%;
+	margin: 10px 0;
+  }
+  
+  .swal2-select:focus {
+	outline: none;
+	border-color: #007bff;
+  }
+  .red{
+	color:rgb(243, 29, 29);
+  }
+  .green{
+	color:rgb(13, 167, 13);
+  }
+ 
+ /* CSS code for the overlay element */
+
+  
+  
+  #courses {
+	z-index: 10;
+	position: relative;
+  } */
+  #create {
+	z-index: 1000;
+	position: fixed;
+	background-color: #fff;
+	left:25%;
+	padding:2%;
+	top:15%;
+	display:none;
+	border-radius: 25px;
+  }
+  
+  /* #create .close {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	font-size: 1.5rem;
+	color: #dc3545;
+	border: none;
+	background-color: transparent;
+  } */
+  
+  #create span {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-left: 25%;
+  }
+  
+  /* #create label {
+	font-weight: bold;
+  } */
+  
+  #create .form-control {
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+	padding: 10px;
+  }
+  
+  #create textarea {
+	height: 100px;
+	resize: none;
+  }
+  
+  #create .btn-primary {
+	background-color: #007bff;
+	border: none;
+	margin-top: 20px;
+  }
+  
+  #create .btn-primary:hover {
+	background-color: #0069d9;
+  }
+  
+  #edit {
+	z-index: 1000;
+	position: fixed;
+	background-color: #fff;
+	left:25%;
+	padding:2%;
+	top:15%;
+	display:none;
+	border-radius: 25px;
+  }
+
+  #create-user-form{
+	z-index: 1;
+	position: absolute;
+	background-color: #c4b9b9;
+	left:25%;
+	padding:2%;
+	top:15%;
+	display:none;
+	border-radius: 25px;
+
+
+  }
+  #create-subject-form{
+	z-index: 1;
+	position: absolute;
+	background-color: #c4b9b9;
+	left:25%;
+	padding:2%;
+	top:15%;
+	display:none;
+	border-radius: 25px;
+
+  }
+
+  #select_sutdent_sub{
+	z-index: 1;
+	position: absolute;
+	background-color: #c4b9b9;
+	left:25%;
+	padding:2%;
+	top:15%;
+	display:none;
+	border-radius: 25px;
+
+  }
+  #set_mark{
+	z-index: 1;
+	position: absolute;
+	background-color: #c4b9b9;
+	left:25%;
+	padding:2%;
+	top:15%;
+	display:none;
+	border-radius: 25px;
+
+  }
+  body {
+	background-color: #f8f9fa;
+  }
+
+  .card {
+	border: none;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px rgba(0,0,0,.05);
+  }
+
+  .card-header {
+	background-color: #17a2b8;
+	border-radius: 20px 20px 0 0;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 0 1px 1px rgba(0,0,0,.1);
+  }
+
+  .form-control {
+	border: 2px solid #ced4da;
+	border-radius: 20px;
+	font-size: 16px;
+	height: 50px;
+	padding: 0 20px;
+  }
+
+  .form-control:focus {
+	box-shadow: none;
+	border-color: #17a2b8;
+  }
+
+  .form-check-input {
+	height: 20px;
+	width: 20px;
+  }
+
+  .btn-primary {
+	background-color: #17a2b8;
+	border: none;
+	border-radius: 20px;
+	font-weight: bold;
+	height: 50px;
+  }
+
+  .btn-primary:hover, .btn-primary:focus {
+	background-color: #138496;
+	box-shadow: none;
+  }
+
+  .text-success {
+	color: #17a2b8;
+  }
+
+
+  
